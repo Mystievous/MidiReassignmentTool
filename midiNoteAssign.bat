@@ -1,0 +1,1 @@
+"C:\Program Files\SuperCollider-3.11.2\sclang.exe" %cd%\midiNoteAssign.scd
