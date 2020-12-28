@@ -8,8 +8,10 @@ Software like [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html) 
 
 ---
 
-1. Select the input and output midi devices with the respective dropdowns on the right of the menu. 
+1. run the midiNoteAssign.bat file, which will run the application using sclang.
 
-2. Use the "Detect Note" button or the Channel and Note dropdowns next to "In" to select the input note you want to be changed, and select the desired output with the "Out" dropdowns.
+2. Select the input and output midi devices with the respective dropdowns on the right of the menu. 
 
-3. Once your change is selected click "Apply Changes" to assign the note to the new output.
+3. Use the "Detect Note" button or the Channel and Note dropdowns next to "In" to select the input note you want to be changed, and select the desired output with the "Out" dropdowns.
+
+4. Once your change is selected click "Apply Changes" to assign the note to the new output.
