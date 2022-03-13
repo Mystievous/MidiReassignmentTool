@@ -2,7 +2,7 @@
 Allows midi inputs to be reassigned before being outputted to another device. 
 
 
-Requires Windows and [Supercollider 3.11.2](https://supercollider.github.io/download) (Other versions of sc are compatible, and can be used by adjusting the batch file). 
+Requires Windows and [Supercollider 3.11.2](https://supercollider.github.io/download) (Other versions of supercollider are compatible, and can be used by adjusting the batch file). 
 
 Software like [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html) can be used to create virtual midi ports for communication with daws and vst hosts on the same computer. 
 
